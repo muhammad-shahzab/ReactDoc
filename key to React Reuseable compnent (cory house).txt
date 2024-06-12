@@ -1,0 +1,34 @@
+ 7 key agendas to follow to create a reuseable component
+
+1--> (audience) for whom we are creating cmponent 
+	# project
+	# team
+	# business
+	# public
+2--> what design system
+	designer do these decision they build the design for component
+ 	figma is not a design ssystem it contain only the information about your design
+	design system use adobe spectra or zero height
+
+3--> start rigid (means less props at start)
+	#benifit if rigid
+	simpler to create and impliment 
+	easier to understand, test and maintain
+	easy to add flexibility but hard to remove	
+	 <propss are easy to add but they are hard to remove> 
+	<<<add props only when necessory>>>
+4--> 
+
+
+
+
+5--> repect HTML
+	use html in its origmal form
+
+
+
+
+	
+
+
+
